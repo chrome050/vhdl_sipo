@@ -1,9 +1,10 @@
-# vhdl_sipo
 VHDL Project with testbench for seriel to parallel converter
+============================================================
 
-Inputs: si = serial in
-        ens = set to '1' to enable input for incoming bitstream
-              set to '0' to disable input
-        clk = Clock
+Inputs: 
+* si = serial in
+* ens = set to '1' to enable input for incoming bitstream; set to '0' to disable input
+* clk = Clock
         
-Output: po =  8-bit parallel output
+Output: 
+* po =  8-bit parallel output
